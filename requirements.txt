@@ -1,0 +1,4 @@
+aiogram==3.10.0
+APScheduler==3.10.4
+firebase-admin==6.4.2
+# python-dotenv==1.0.1 # Only needed for local development to load .env file
